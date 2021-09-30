@@ -1,5 +1,10 @@
-<<<<<<< HEAD
-bart
-=======
-bob
->>>>>>> 56ff92f1d19531e7abe36adfbea595857247be57
+1
+
+2
+
+3 master rbranch
+
+4
+
+5
+
